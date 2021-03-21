@@ -1,4 +1,4 @@
-## Tasks
+### Tasks
 
 1.
 The first problem to solve is determining how many hours of sleep you got each night of the week.
